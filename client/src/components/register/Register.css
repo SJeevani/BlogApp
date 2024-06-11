@@ -1,0 +1,16 @@
+.abc{
+    background-image: url('https://img.freepik.com/premium-photo/abstract-blue-sky-pattern-background_127755-1099.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.de{
+    background-color: rgba(211, 211, 211, 0.35);
+}
+h1{
+    /* font-size: 20px; */
+    text-shadow: 3px 2px rgba(128, 128, 128, 0.363);
+}
+
+input[type=radio]{
+    outline: 1px solid black;
+}

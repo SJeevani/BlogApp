@@ -1,0 +1,21 @@
+.author-profile .nav-link.active {
+  color: rgba(88, 173, 226, 0.8) !important;
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 10px;
+}
+
+.author-profile .nav-link.active:hover {
+  color: rgba(88, 173, 226, 0.8) !important;
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 10px;
+}
+
+.author-profile .nav-link {
+  background-color: white;
+  color:black;
+}
+
+.author-profile .nav-link:hover {
+  background-color: white;
+  color:black;
+}

@@ -1,0 +1,16 @@
+img{
+    width:75px;
+    border-radius: 50%;
+}
+.nav-link.active{
+    color:rgba(88, 173, 226, 0.8) !important;
+    font-size: 1.8rem;
+    font-weight: 800;
+    text-shadow: 0.5px 0.5px rgb(98, 96, 96);
+}
+
+.welcome_msg{
+    margin:10px;
+    color: rgba(88, 173, 226, 0.8);
+    text-shadow: 0.5px 0.5px rgb(98, 96, 96);
+}
